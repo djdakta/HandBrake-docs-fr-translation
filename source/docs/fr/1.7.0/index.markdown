@@ -20,7 +20,7 @@ Bienvenue dans la documentation en Français pour HandBrake 1.7.0 jusqu'à 1.7.3
 
 Voici quelques liens rapides pour vous aider à démarrer:
 
-- Pour être rapidement opérationnel avec HandBrake, continuez vers [Démarrage rapide](introduction/quick-start.html)
+- Pour être rapidement opérationnel avec HandBrake, consultez [Démarrage rapide](introduction/quick-start.html)
 - Pour obtenir une copie de HandBrake (*c'est gratuit!*), consultez [Télécharger et installer HandBrake](get-handbrake/download-and-install.html)
 - Un guide plus détaillé sur l'utilisation de HandBrake consultez [Ouvrir une source vidéo](workflow/open-video-source.html)
 - Vous avez des problèmes ? Consulter [Résolution des problèmes courants](help/troubleshooting-common-issues.html)
