@@ -18,26 +18,26 @@ Table des matières
 
 ## Introduction
 
-- [Quick start](introduction/quick-start.html)
-  *Learn how to make your first video in minutes*
-- [About HandBrake](introduction/about.html)
-  *What HandBrake is, does, and does not*
+- [Démarrage Rapide](introduction/quick-start.html)
+  *Apprendre comment créer sa première vidéo en quelques minutes*
+- [A Propos d' HandBrake](introduction/about.html)
+  *Qu'est-ce que HandBrake, que fait-il, que ne fait-il pas*
 
 
-## Getting HandBrake
+## Où Trouver HandBrake
 
-- [Where to get HandBrake](get-handbrake/where-to-get-handbrake.html)
-  *The officially supported version*
-- [Downloading and installing HandBrake](get-handbrake/download-and-install.html)
-  *How to get HandBrake onto your computer*
-- [Checking for updates](get-handbrake/check-for-updates.html)
-  *Staying up to date with the latest features and bug fixes*
+- [Où trouver HandBrake](get-handbrake/where-to-get-handbrake.html)
+  *La Version officielle supportée*
+- [Télécharger et Installer HandBrake](get-handbrake/download-and-install.html)
+  *Comment installer HandBrake sur ton ordinateur*
+- [Vérifier les mises](get-handbrake/check-for-updates.html)
+  *Rester à jour avec les dernières fonctionnalités et fixes de bugs*
 
 
-## Making videos
+## Créer une vidéo
 
-- [Opening a video source](workflow/open-video-source.html)
-  *How to get your videos into HandBrake*
+- [Ouvrir une source vidéo](workflow/open-video-source.html)
+  *Comment ajouter ses vidéos dans HandBrake*
 - [Selecting a preset](workflow/select-preset.html)
   *Tailored settings for instant compatibility with many devices*
 - [Adjusting quality](workflow/adjust-quality.html)
